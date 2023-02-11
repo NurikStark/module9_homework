@@ -1,0 +1,21 @@
+.number{
+	padding: 10px;	
+}
+.result{
+	display: flex;
+    justify-content: space-between;
+    width: 430px;
+    flex-wrap: wrap;
+}
+.btn{
+	padding: 10px;
+	background: blue;	
+}
+.card{
+	margin-top:40px;
+	margin-bottom: 40px;	
+}
+.card img{
+	width: 150px;	
+	height: 150px;	
+}
